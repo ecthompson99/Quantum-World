@@ -1,0 +1,3 @@
+1. Visualizing time-dependent phenomena
+2. Encapsulating code via functions
+3. Build a wave function.
